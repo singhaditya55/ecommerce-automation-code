@@ -99,7 +99,3 @@ pip install -r requirements.txt
 ## 👨‍💻 **Author**
 **📌 Created by:** Aditya Singh  
 📧 **Contact:** [singhaditya5298@gmail.com](mailto:singhaditya5298@gmail.com)  
-
----
-
-This README is **clean, structured, and includes direct download links** for easy setup. 🚀 Let me know if you need modifications! 😊
