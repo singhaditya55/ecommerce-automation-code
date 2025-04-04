@@ -69,6 +69,7 @@ Issue: ModuleNotFoundError: No module named 'config'
 Issue: selenium.common.exceptions.NoSuchElementException
 ✅ Solution: Flipkart might have changed its UI. Update XPath in pages/*.py.
 
+---
 👨‍💻 Author
 📌 Created by Aditya Sigh
 📧 Contact: singhaditya5298@gmail.com
