@@ -1,0 +1,8 @@
+# Selenium WebDriver for browser automation
+selenium==4.10.0
+
+# Unit testing framework
+unittest2==1.1.0
+
+# Web driver manager to auto-download correct ChromeDriver version
+webdriver-manager==4.0.1
