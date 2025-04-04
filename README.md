@@ -1,7 +1,3 @@
-Here’s a **properly structured** and **well-formatted** `README.md` file with direct download links.  
-
----
-
 # 🛒 Flipkart E-commerce Automation
 
 ## 📌 Project Overview  
